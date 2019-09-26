@@ -16,4 +16,4 @@ fields:
   name: categories
   label: categories
 pages:
-- _posts/test-post.md
+- _posts/2019-09-26-test-post.md
